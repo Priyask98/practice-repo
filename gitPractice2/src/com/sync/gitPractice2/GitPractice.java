@@ -4,7 +4,7 @@ public class GitPractice {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Welcome to synchronoss.....1st push");
+		System.out.println("Welcome to synchronoss.....2nd pulling");
 	}
 
 }
